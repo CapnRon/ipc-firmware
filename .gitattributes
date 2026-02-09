@@ -1,1 +1,2 @@
 aquara_g100-t31x-sc3336p-aic8800dc-nand-virgin.bin filter=lfs diff=lfs merge=lfs -text
+wuuk_y0110-t41nq-sc4336-sv6158-virgin.bin filter=lfs diff=lfs merge=lfs -text
